@@ -10,7 +10,7 @@ The Menu is displayed when you perform 2 swipe gestures.
 
 # Menu Items-
 
-1.  *Battery* - Display the mobile battey% on my band. If mobile is charging we get a "+" symbol.
+1) *Battery* - Display the mobile battey% on my band. If mobile is charging we get a "+" symbol.
 
 Example - If not charging - 30%
 
